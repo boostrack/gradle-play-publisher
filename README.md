@@ -35,7 +35,7 @@ buildscript {
 Apply it:
 
 ```groovy
-apply plugin: 'play'
+apply plugin: 'com.github.triplet.play'
 ```
 
 The plugin creates the following tasks for you:
